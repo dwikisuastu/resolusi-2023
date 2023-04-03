@@ -1,5 +1,6 @@
 resolusi 2023
 - buat kalkulator
+- pas photo
 - cari tau apple developer academy
 - selesai backend Dicoding
 - Paham Wordpress
